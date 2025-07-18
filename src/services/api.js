@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://your-render-backend-url/api',
+  baseURL: ' https://mental-health-backend-rx5y.onrender.com/api',
 });
 
 
