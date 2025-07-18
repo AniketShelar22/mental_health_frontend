@@ -54,7 +54,7 @@ mental-health-frontend/
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/mental-health-frontend.git
+   git clone https://github.com/AniketShelar22/mental-health-frontend.git
    cd mental-health-frontend
    ```
 
